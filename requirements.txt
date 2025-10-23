@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn
+matplotlib
+scipy
+scikit-learn
+category_encoders
+joblib
+graphviz
+ipykernel
